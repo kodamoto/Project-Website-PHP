@@ -1,5 +1,5 @@
 <?php
-// Koneksi HUBUNGAN
+// Koneksi HUBUNGAN nabi adam
 $host = "localhost";
 $user = "root";
 $pass = "";

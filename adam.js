@@ -1,1 +1,1 @@
-//nama nabi
+//nama nabi adam
